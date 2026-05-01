@@ -1,5 +1,8 @@
+# Runtime dependencies
 mediapipe==0.10.9
 numpy
 opencv-contrib-python
 PyAutoGUI
+
+# Packaging
 pyinstaller
