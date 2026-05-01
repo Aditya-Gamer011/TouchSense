@@ -12,8 +12,6 @@ ENV/
 # Build and packaging output
 build/
 dist/
-!dist/
-!dist/TouchSense.exe
 *.spec
 
 # Tool caches
